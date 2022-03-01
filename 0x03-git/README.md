@@ -1,1 +1,1 @@
-this folder is for 0x03-git
+this folder is for 0x03-git to get started
